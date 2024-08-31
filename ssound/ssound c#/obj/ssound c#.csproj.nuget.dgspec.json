@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ssound c#\\ssound c#.csproj": {}
+    "C:\\projects\\ssound\\ssound\\ssound c#\\ssound c#.csproj": {}
   },
   "projects": {
-    "C:\\ssound c#\\ssound c#.csproj": {
+    "C:\\projects\\ssound\\ssound\\ssound c#\\ssound c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ssound c#\\ssound c#.csproj",
+        "projectUniqueName": "C:\\projects\\ssound\\ssound\\ssound c#\\ssound c#.csproj",
         "projectName": "ssound c#",
-        "projectPath": "C:\\ssound c#\\ssound c#.csproj",
+        "projectPath": "C:\\projects\\ssound\\ssound\\ssound c#\\ssound c#.csproj",
         "packagesPath": "C:\\Users\\vsmou\\.nuget\\packages\\",
-        "outputPath": "C:\\ssound c#\\obj\\",
+        "outputPath": "C:\\projects\\ssound\\ssound\\ssound c#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vsmou\\AppData\\Roaming\\NuGet\\NuGet.Config"
